@@ -1,8 +1,11 @@
 **PROJECT : WHEATHER FORECAST**
+
 Team :
 Aditya Bachu
 D R Dinesh Kumar
+
 Objective:- Predicting wheather using ML models
+
 Research:-
 The goal of wheather forecast software is to alert the users about the climate situation based on the different parameters like humidity, temperature,
 Drought is one of the natural disaster. It is a deficiency of
@@ -24,6 +27,7 @@ Methodology:-
 We are going to take the previous water data, pollution data in mainly
 states of Telangana. We will train the model with the previous data, and
 then we are going to predict the future.
+
 TECH STACK :-
 • Python
 • Pandas
@@ -32,5 +36,6 @@ TECH STACK :-
 • Matplotlib
 • Scikit learn
 • HTML5 & CSS
+
 Conclusion:-
 Development of a software for wheather forecast.
