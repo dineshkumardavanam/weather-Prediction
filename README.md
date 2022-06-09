@@ -3,8 +3,7 @@
 Team :
 Aditya Bachu,
 D R Dinesh Kumar, 
-Sujeeth Reddy Sheri,
-Aashritha Pasumarthi
+Sujeeth Reddy Sheri
 
 Objective:- Predicting wheather using ML model.
 
